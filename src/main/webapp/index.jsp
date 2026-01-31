@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Netflix Login Page | CodingNepal</title>
+    <title>Netflix Login Page | Shivam</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO NETFLIX V-1.0</button>
+        <button type="submit">WELCOME TO NETFLIX v--Sam</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
